@@ -1,0 +1,9 @@
+Building Magpie
+
+See doc/readme-qt.rst for instructions on building Magpie QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Magpie.
+
+See doc/build-*.txt for instructions on building Magpied,
+the intended-for-services, no-graphical-interface, reference
+implementation of Magpie.
